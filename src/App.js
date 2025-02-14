@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload Halloota.
         </p>
+        <h1>Joo</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
